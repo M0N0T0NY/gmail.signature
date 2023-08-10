@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    color: #444;
+    /* border: 1px solid black; */
+}
+
+.icon {
+    margin: 3.5px;
+    background-color: #a7ff42;
+    transition: all .2s ease-in-out;
+}
